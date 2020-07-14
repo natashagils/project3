@@ -13,6 +13,7 @@ I WANT a fun card game
 SO THAT I can play with a friend during our online parties 
 
 # Screenshot 
+![wargame-flow](https://user-images.githubusercontent.com/56641651/87484261-bb6e7000-c603-11ea-95a8-04d776fabc9b.jpeg)
 
 
 # Acceptance Criteria 
