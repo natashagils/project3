@@ -19,7 +19,7 @@ SO THAT I can play with a friend during our online parties
 
 User Flow 
 
-<img width="1440" alt="Screen Shot 2020-07-11 at 10 16 47 AM" src="https://user-images.githubusercontent.com/56641651/87484421-156f3580-c604-11ea-8b96-d47e02837092.png">
+<img width="1111" alt="Screen Shot 2020-07-14 at 6 58 18 PM" src="https://user-images.githubusercontent.com/56641651/87484627-a6dea780-c604-11ea-9231-b17032717aec.png">
 
 
 
