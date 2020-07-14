@@ -6,6 +6,8 @@
 # Synopsis
 This is a war drinking card app for two players to play against each other and the loser is prompted to drink a random drink. The game also has a chat element, where the two players can chat with each other. The app uses ReactJS, Node and Express, MongoDB and is also deployed in Heroku. 
 
+The project also uses Socket.io for the two-way chat functionality and Passport for user authentication. 
+
 # User Story
 
 AS A game player looking for a fun party game online,
@@ -17,6 +19,7 @@ SO THAT I can play with a friend during our online parties
 
 User Flow 
 
+<img width="1440" alt="Screen Shot 2020-07-11 at 10 16 47 AM" src="https://user-images.githubusercontent.com/56641651/87484421-156f3580-c604-11ea-8b96-d47e02837092.png">
 
 
 
@@ -70,7 +73,7 @@ passport.use(new LocalStrategy(
 
   
  # Installation
-To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/Homework5-Scheduler. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
+To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/dmitribouilov/project3. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
 
 
 
